@@ -20,7 +20,7 @@ import this
 3-1. git status를 했을 때 README.md가 Untracked files에 있는 것을 볼 수 있다
 
 4. git add README.md로 README.md 파일을 스테이지에 올린다
-4-1. git status를 했을 때 README.md 파일이 스테이지에 있음을 볼 수ㅇ 있다
+4-1. git status를 했을 때 README.md 파일이 스테이지에 있고, 따라서 커밋할 수 있음을 확인할 수 있다
 
 5. git commit -m "Init: README.md"와 같이 커밋한다
 (형식: git commit [옵션] "커밋메시지")
